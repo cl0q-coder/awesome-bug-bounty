@@ -17,7 +17,7 @@
   - [Injection & Exploitation](#injection--exploitation)
   - [Parameter Discovery](#parameter-discovery)
   - [JavaScript Analysis](#javascript-analysis)
-  - [API Security Testing](#api-security-testing)
+  - [API Security Testing](#api-security-t
   - [Cloud Security](#cloud-security)
   - [DNS & Network Tools](#dns--network-tools)
   - [Interception Proxies](#interception-proxies)
@@ -93,8 +93,11 @@
 - [Netlas](https://netlas.io/) - Attack surface discovery and intelligence platform.
 - [GreyNoise](https://www.greynoise.io/) - Internet scanner noise filtering and intelligence.
 - [CriminalIP](https://www.criminalip.io/) - Cyber threat intelligence search engine.
+
+- [cl0q](https://cl0q.com) - Open search engine for domain research — 44.1M domains indexed, free API tier, no tracking.- [FullHunt](https://fullhunt.io/) - Attack surface management and discovery.
+
 - [FullHunt](https://fullhunt.io/) - Attack surface management and discovery.
-- [Leakix](https://leakix.net/) - Leak and exposure detection engine.
+-  [Leakix](https://leakix.net/) - Leak and exposure detection engine.
 - [VirusTotal](https://www.virustotal.com/gui/) - Analyse suspicious files, domains, IPs and URLs.
 - [Crt.sh](https://crt.sh/) - Certificate transparency log search.
 - [SecurityTrails](https://securitytrails.com/) - DNS history, WHOIS, and subdomain data.
